@@ -10,8 +10,8 @@ global.socialm = "GitHub: Elite-MD"
 global.location = "Nigeria, Port Harcourt"
 
 
-global.ownernumber = '2348109263390'  //creator number
-global.ownername = 'ElitePro' //owner name
+global.ownernumber = '263773168961'  //creator number
+global.ownername = 'Masosote' //owner name
 global.botname = 'ELITE-PRO-V1' //name of the bot
 
 
@@ -21,7 +21,7 @@ global.prefa = ['','!','.','#','&']
 
 //false=disable and true=enable
 global.autoRecording = false //auto recording
-global.autoTyping = false //auto typing
+global.autoTyping = true //auto typing
 global.autorecordtype = false //auto typing + recording
 
 
